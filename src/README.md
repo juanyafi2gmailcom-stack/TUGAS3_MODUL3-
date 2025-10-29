@@ -134,7 +134,6 @@ parameter, return value, dan contoh penggunaan.
 ☕ Java JDK 17+
 🖥️ IntelliJ IDEA
 📜 JavaDoc Generator (bawaan IDE)
-🧩 Paradigma OOP
 
 =====================================================
 👨‍💻  IDENTITAS PEMBUAT
